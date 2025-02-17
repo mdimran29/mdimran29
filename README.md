@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Md Imran  
 🚀 **Smart Contract Developer | MERN Stack Developer | Web3 Enthusiast**  
 🔗 **Building Blockchain-Based DApps & Scalable Web Applications**  
-💡 **Passionate about Decentralized Technologies, Cybersecurity, and Web Development**
+💡 **Passionate about Decentralized Technologies and Web Development**
 
 ---
 
