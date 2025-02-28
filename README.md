@@ -32,7 +32,7 @@
 <h3 align="left">My Coding Time: </h3>
      <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=mdimran29&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact"
         alt="arup-basak"
     />
 
@@ -45,7 +45,7 @@
 	alt="Language Stat" 
 	/>
 	<br/>
-	<p>Hehe, I love TypeScript</p> -->
+<!-- 	<p>Hehe, I love TypeScript</p> --> -->
       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imran29" alt="imran29" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdimran29" alt="mdimran29" />
 </div>
