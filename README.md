@@ -39,7 +39,7 @@
 
 <h3 align="left">Most Used Languages: </h3>
 <div>
-     <<img 
+     	<img 
 	align="center"
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdimran29&layout=compact" 
 	alt="Language Stat" 
