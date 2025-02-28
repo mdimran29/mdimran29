@@ -26,12 +26,10 @@
 ### **🔧 DevOps & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)  
 
----
- <img src="https://github-profile-trophy.vercel.app?username=mdimran29&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="250" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimran29&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=mdimran29&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="250" alt="trophy graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimran29&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-  ---
-  <h3 align="left">My Coding Time: </h3>
+<h3 align="left">My Coding Time: </h3>
      <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=mdimran29&layout=compact"
@@ -48,7 +46,7 @@
 	/>
 	<br/>
 	<p>Hehe, I love TypeScript</p> -->
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdimran29" alt="mdimran29" />
+      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imran29" alt="imran29" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdimran29" alt="mdimran29" />
 </div>
   
