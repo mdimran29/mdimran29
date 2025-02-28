@@ -51,8 +51,50 @@
  
 
 ## **🔗 Connect with Me**  
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-imran-16110a253/)  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mdimran29)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/_mdimran._)  
+
+<p align="left">
+    <a href="https://x.com/itz_Imran29" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="itz_Imran29"
+            height="30"
+            width="40"
+    /></a>
+    <a href="https://www.linkedin.com/in/mdimran29/" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="mdimran29"
+            height="30"
+            width="40"
+    /></a>
+    <a href="https://instagram.com/_mdimran._" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="_mdimran._"
+            height="30"
+            width="40"
+    /></a>
+    <a href="https://leetcode.com/u/Imranansari786/" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="Imranansari786"
+            height="30"
+            width="40"
+    /></a>
+    <a href="https://www.geeksforgeeks.org/user/imranansar2nqe/" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            alt="imranansar2nqe"
+            height="30"
+            width="40"
+    /></a>
+</p>
+
 
 
 ## **📢 Fun Fact**  
