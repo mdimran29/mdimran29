@@ -35,6 +35,12 @@
         src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact"
         alt="imran29"
     />
+     <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact"
+        alt="imran29"
+    />
+
 
 
 <h3 align="left">Most Used Languages: </h3>
