@@ -45,8 +45,8 @@
 	alt="Language Stat" 
 	/>
 	<br/>
-<!-- 	<p>Hehe, I love TypeScript</p> --> -->
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdimran29" alt="mdimran29" />
+
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdimran29" alt="mdimran29" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdimran29" alt="mdimran29" />
 </div>
   
