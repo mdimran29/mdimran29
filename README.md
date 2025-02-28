@@ -33,7 +33,7 @@
      <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact"
-        alt="arup-basak"
+        alt="imran29"
     />
 
 
