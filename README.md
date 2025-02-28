@@ -41,13 +41,13 @@
 <div>
      <<img 
 	align="center"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdimran29&layout=compact" 
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran29&layout=compact" 
 	alt="Language Stat" 
 	/>
 	<br/>
 <!-- 	<p>Hehe, I love TypeScript</p> --> -->
       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imran29" alt="imran29" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdimran29" alt="mdimran29" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imran29" alt="imran29" />
 </div>
   
 
@@ -57,11 +57,9 @@
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-imran-16110a253/)  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mdimran29)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/_mdimran._)  
 
- ---
 
 ## **📢 Fun Fact**  
 ⚡ **I love solving DSA problems & lifting heavy at the gym!** 🏋️‍♂️🔥  
 
----
 
 🔥 **Let's connect & build something amazing together!** 🚀💻
