@@ -38,7 +38,7 @@
      <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact"
-        alt="imran29"
+        alt="md-imran"
     />
 
 
