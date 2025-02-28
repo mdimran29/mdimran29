@@ -35,14 +35,6 @@
         src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact"
         alt="imran29"
     />
-     <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact"
-        alt="md-imran"
-    />
-
-
-
 <h3 align="left">Most Used Languages: </h3>
 <div>
      	<img 
@@ -50,7 +42,6 @@
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdimran29&layout=compact" 
 	alt="Language Stat" 
 	/>
-	<br/>
 
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdimran29" alt="mdimran29" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdimran29" alt="mdimran29" />
