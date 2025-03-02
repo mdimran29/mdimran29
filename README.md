@@ -35,10 +35,7 @@
 <h3 align="left">Coding Time:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdimran29&layout=compact" alt="mdimran29"/>
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdimran29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimran29&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+ 
 ## **🔗 Connect with Me**  
 
 <p align="left">
