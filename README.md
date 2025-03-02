@@ -33,11 +33,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimran29&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 <h3 align="left">My Coding Time: </h3>
-     <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact"
-        alt="imran29"
-    />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact" alt="Md-Imran"/>
 <h3 align="left">Most Used Languages: </h3>
 <div>
      	<img 
