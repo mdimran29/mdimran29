@@ -32,16 +32,8 @@
 <img src="https://github-profile-trophy.vercel.app?username=mdimran29&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="250" alt="trophy graph"  />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimran29&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-<h3 align="left">My Coding Time: </h3>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact" alt="Md Imran"/>
- 
-
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdimran29" alt="mdimran29" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdimran29" alt="mdimran29" />
-</div>
-  
-
- 
+<h3 align="left">Coding Time:</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact" alt="mdimran29"/>
 
 ## **🔗 Connect with Me**  
 
