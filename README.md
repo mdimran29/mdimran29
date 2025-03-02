@@ -34,13 +34,7 @@
 
 <h3 align="left">My Coding Time: </h3>
     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact" alt="Md Imran"/>
-<h3 align="left">Most Used Languages: </h3>
-<div>
-     	<img 
-	align="center"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdimran29&layout=compact" 
-	alt="Language Stat" 
-	/>
+ 
 
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdimran29" alt="mdimran29" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdimran29" alt="mdimran29" />
