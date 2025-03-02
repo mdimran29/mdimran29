@@ -29,14 +29,13 @@
 ### **🔧 DevOps & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)  
 
-<img src="https://github-profile-trophy.vercel.app?username=mdimran29&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="250" alt="trophy graph"  />
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mdimran29&theme=discord&column=-1" alt="mdimran29" /></a> </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimran29&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-<h3 align="left">Coding Time:</h3>
+### Coding Time
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=imran29&layout=compact&range=last_7_days" alt="mdimran29"/>
+<br><br><br><br><br><br><br><br><br><br>
 
-
----
  
 ## **🔗 Connect with Me**  
 
